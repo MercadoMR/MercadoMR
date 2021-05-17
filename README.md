@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello everyone!
+
+<p align="center">
+  <samp>
+    <a href="#">me</a> .
+    <a href="#">blog</a> .
+    <a href="#">projects</a> .
+    <a href="https://www.linkedin.com/in/mercadomr/">linkedin</a> .
+    <a href="#">instagram</a>
+  </samp>
+</p>
 
 <!--
 **MercadoMR/MercadoMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
