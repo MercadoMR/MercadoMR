@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="#">me</a> .
+    <a href="https://mercadomr.github.io/">about me</a> .
     <a href="#">blog</a> .
     <a href="#">projects</a> .
     <a href="https://www.linkedin.com/in/mercadomr/">linkedin</a> .
